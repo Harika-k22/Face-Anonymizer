@@ -3,7 +3,7 @@ and blurs human faces in:Images,Videos,Live Webcam
 
 ---
 
-##Features
+## Features
 
 * Detects faces using Haar Cascade Classifier
 * Applies Gaussian blur to hide identities
